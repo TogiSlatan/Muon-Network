@@ -33,7 +33,7 @@ curl -o docker-compose.yml https://raw.githubusercontent.com/muon-protocol/muon-
 docker compose pull
 ```
 ```
-docker compose up -d
+docker-compose up -d
 ```
 ## Node'u başlatın:
 * Node çalıştığında DONE yazacaktır.
